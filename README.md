@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vky0579
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Linux and Visual Studio Code
 - 📫 How to reach me vky0579@gmail.com
 
 <!---
